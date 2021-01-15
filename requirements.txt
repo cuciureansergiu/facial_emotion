@@ -5,3 +5,4 @@ opencv-python
 sklearn
 scikit-image
 wget
+progressbar
